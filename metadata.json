@@ -1,0 +1,6 @@
+{
+  "name": "Clinic Visit Utilisation Dashboard",
+  "description": "A refined analytical dashboard reporting 544 clinic visits and member demographics from June to July 2026.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
